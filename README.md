@@ -1,4 +1,4 @@
-# RUN lamport_clocks
+# Run lamport_clocks
  
 1. go mod init lamport.go
 2. make
