@@ -1,4 +1,5 @@
 # RUN lamport_clocks
  
-1. make
-2. ./lamp.exe
+1. go mod init lamport.go
+2. make
+3. ./lamp.exe
